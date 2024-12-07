@@ -1,6 +1,3 @@
-Here’s a professional and visually appealing **README.md** file for your GitHub repository, formatted to make it attractive and easy to read:  
-
----
 
 # **AI-Enhanced Text Editor**  
 🚀 **A feature-rich, AI-powered text editor for enhanced productivity and creativity.**  
@@ -28,13 +25,6 @@ The **AI-Enhanced Text Editor** combines a modern text editing experience with t
 ### 🎨 **User Interface**  
 - Organized layout with a **scrollable text area**, **toolbar**, and **AI actions panel**.  
 - **Real-time status updates** via the status bar.  
-
----
-
-## 🚀 **Preview**
-Add screenshots or a GIF for a visual preview. For now, use this placeholder:  
-
-![Editor Preview](https://via.placeholder.com/900x500.png?text=Add+Your+Screenshot+Here)  
 
 ---
 
